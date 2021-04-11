@@ -11,18 +11,18 @@ password, receive the responses, validate the responses, then generates a
 random password.
 
 ## To Do
-- [ ] Create prompts for password criteria selection
-- [ ] Use prompt responses to build password criteria
-- [ ] Criteria:
+- [x] Create prompts for password criteria selection
+- [x] Use prompt responses to build password criteria
+- [x] Criteria:
     - [x] Password length (8-128)
-    - [ ] Include lowercase letters
-    - [ ] Include uppercase letters
-    - [ ] Include numbers
-    - [ ] Include special characters
-- [ ] Validate responses
-- [ ] Verify tht at least one character type has been selected
+    - [x] Include lowercase letters
+    - [x] Include uppercase letters
+    - [x] Include numbers
+    - [x] Include special characters
+- [x] Validate responses
+- [x] Verify tht at least one character type has been selected
 - [ ] Generate password based on the criteria
-- [ ] Display the password i an alert or on the page
+- [ ] Display the password in an alert or on the page
 
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
